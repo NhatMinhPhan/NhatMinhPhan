@@ -1,7 +1,7 @@
 Greetings, I’m @NhatMinhPhan (he/him), and welcome to my GitHub profile.
 
 Currently, I'm a computer science major at York University. So far, I can somewhat manage Python, Java and some JavaScript/HTML programs.
-I'm looking forward to find more opportunities and ideas to put what I ahve learned so far in my major into practice.
+I'm looking forward to find more opportunities and ideas to put what I have learned so far in my major into practice.
 
 For inquiries about business or my GitHub repositories, contact nhatminh120767@gmail.com.
 
