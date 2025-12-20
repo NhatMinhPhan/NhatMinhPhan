@@ -7,7 +7,7 @@ In addition, here is *[my personal website](https://nhatminhphancs.surge.sh/)*, 
 
 ---
 
-For inquiries about business or my GitHub repositories, contact nhatminh120767@gmail.com.
+For GitHub or business inquiries, contact nhatminh120767@gmail.com.
 
 <!---
 NhatMinhPhan/NhatMinhPhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
