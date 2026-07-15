@@ -1,6 +1,6 @@
 Greetings, I’m Nhat Minh Phan *(he/him)*, and welcome to my GitHub profile.
 
-Currently, I'm a computer science major at York University. So far, I can somewhat manage Python, Java and some JavaScript/HTML programs.
+Currently, I'm a computer science major at York University. So far, I possess technical understanding of Python, Java, JavaScript/HTML, SQL, C and Bash.
 I'm looking forward to find more opportunities and ideas to put what I have learned so far in my major into practice.
 
 In addition, here is *[my personal website](https://nhatminhphan.github.io/)*, where you can find a list of projects I've worked on, my LinkedIn and my résumé.
